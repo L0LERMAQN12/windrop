@@ -1,2 +1,2 @@
 # Windrop filedropper
-a common filedropper made by me, edit/build in vs2010.
+A common filedropper made by me, edit/build in vs2010.
